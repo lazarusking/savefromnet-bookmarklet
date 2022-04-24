@@ -1,0 +1,2 @@
+# savefromnet-bookmarklet
+Simple Bookmarklet
